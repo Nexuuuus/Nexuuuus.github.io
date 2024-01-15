@@ -1,0 +1,17 @@
+Body {
+  background-color: red;
+  Margin: 0px;
+}
+
+Header {
+  background-color: Black;
+  height: 50px;
+}
+
+#Header_Name {
+  Color: White;
+  text-align: center;
+  font-family: Garamond;
+  font-size: 32px;
+  margin: auto;
+}
