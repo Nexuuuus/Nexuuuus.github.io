@@ -32,3 +32,20 @@ margin: auto;
   margin: auto;
 
 }
+#BoxforQuote {
+  margin:  auto;
+  position: absolute;
+  left: 50%;
+  top: 65%;
+  transform:  translate(-50%, -50%);
+
+}
+#Quote {
+  margin: auto;
+  text-align: center;
+  font-size: 44px;
+}
+#Text_under_Quote {
+  margin: auto;
+  font-size: 32px;
+}
