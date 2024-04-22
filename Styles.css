@@ -8,7 +8,7 @@ Body {
 }
 Header {
   background-color: Black;
-  height: 50px;
+  height: 7vh;
   display: flex;
 }
 .Header_Button {
@@ -28,27 +28,52 @@ margin: auto;
   Color: White;
   text-align: center;
   font-family: Garamond;
-  font-size: 32px;
+  font-size: 2vw;
   margin: auto;
 
 }
+.BoxforBox {
+  margin:  auto;
+  position: absolute;
+  left: 50vw;
+  top: 47vh;
+  transform:  translate(-50vw, -40vh);
+  width: 100vw;
+  height: 80vh;
+  background-color: green;
+}
 #BoxforQuote {
+ width: 80vw;
+ position: absolute;
+ left: 50vw;
+ transform:  translate(-50%, 20%);
+}
+#BoxforQuote2{
   margin:  auto;
   position: absolute;
   left: 50%;
   top: 58%;
-  transform:  translate(-50%, -50%);
+  transform:  translate(-50%, 65%);
+  width: 80%;
+  height: 60%;
+}
+#BoxforQuote3{
+  margin:  auto;
+  position: absolute;
+  left: 50%;
+  top: 58%;
+  transform:  translate(-50%, 180%);
   width: 80%;
   height: 60%;
 }
 #Quote {
   margin: auto;
   text-align: center;
-  font-size: 53px;
+  font-size: 4.05vw;
 }
 #Text_under_Quote {
   margin: auto;
-  font-size: 34px;
+  font-size: 2.45vw;
   padding: 15px;
   text-align: center;
 }

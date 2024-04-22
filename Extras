@@ -1,0 +1,24 @@
+<footer>
+  <table id="table">
+    <tr>
+      <th>Sociālie Tīkli</th>
+      <th>Informācija</th>
+      <th>Kontakti</th>
+    </tr>
+    <tr>
+      <td>Twitter</td>
+      <td>Copyright</td>
+      <td>Temp</td>
+    </tr>
+    <tr>
+      <td>LinkedIn</td>
+      <td>Privacy Policy</td>
+      <td>Temp</td>
+    </tr>
+    <tr>
+      <td>Temp</td>
+      <td>Temp</td>
+      <td>Temp</td>
+    </tr>
+  </table>
+</footer>
