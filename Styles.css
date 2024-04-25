@@ -8,7 +8,9 @@ Body {
 }
 Header {
   background-color: Black;
-  height: 7vh;
+  height: 3.55vmax;
+  min-height: 7vmin;
+  width: 100vw;
   display: flex;
 }
 .Header_Button {
@@ -28,7 +30,7 @@ margin: auto;
   Color: White;
   text-align: center;
   font-family: Garamond;
-  font-size: 2vw;
+  font-size: 2vmax;
   margin: auto;
 
 }
@@ -39,7 +41,7 @@ margin: auto;
   top: 47vh;
   transform:  translate(-50vw, -40vh);
   width: 100vw;
-  height: 80vh;
+  height: 80vmin;
   background-color: green;
 }
 #BoxforQuote {
@@ -51,11 +53,11 @@ margin: auto;
 #BoxforQuote2{
   margin:  auto;
   position: absolute;
-  left: 50%;
-  top: 58%;
+  left: 50vw;
+  top: 58vh;
   transform:  translate(-50%, 65%);
-  width: 80%;
-  height: 60%;
+  width: 80vw;
+  height: 60vmin;
 }
 #BoxforQuote3{
   margin:  auto;
@@ -64,7 +66,7 @@ margin: auto;
   top: 58%;
   transform:  translate(-50%, 180%);
   width: 80%;
-  height: 60%;
+  height: 60vmin;
 }
 #Quote {
   margin: auto;
